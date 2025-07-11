@@ -1,0 +1,48 @@
+wget --no-clobber --recursive --no-parent https://www.nhc.noaa.gov/archive/text/TWDEP/
+wget --no-clobber --recursive --no-parent https://www.nhc.noaa.gov/archive/text/TWDAT/
+#wget --no-clobber --recursive --no-parent https://www.nhc.noaa.gov/archive/text/TWDAT/2022/
+rm www.nhc.noaa.gov/archive/text/TWDEP/index*
+rm www.nhc.noaa.gov/archive/text/TWDEP/2003/index*
+rm www.nhc.noaa.gov/archive/text/TWDEP/2004/index*
+rm www.nhc.noaa.gov/archive/text/TWDEP/2005/index*
+rm www.nhc.noaa.gov/archive/text/TWDEP/2006/index*
+rm www.nhc.noaa.gov/archive/text/TWDEP/2007/index*
+rm www.nhc.noaa.gov/archive/text/TWDEP/2008/index*
+rm www.nhc.noaa.gov/archive/text/TWDEP/2009/index*
+rm www.nhc.noaa.gov/archive/text/TWDEP/2010/index*
+rm www.nhc.noaa.gov/archive/text/TWDEP/2011/index*
+rm www.nhc.noaa.gov/archive/text/TWDEP/2012/index*
+rm www.nhc.noaa.gov/archive/text/TWDEP/2013/index*
+rm www.nhc.noaa.gov/archive/text/TWDEP/2014/index*
+rm www.nhc.noaa.gov/archive/text/TWDEP/2015/index*
+rm www.nhc.noaa.gov/archive/text/TWDEP/2016/index*
+rm www.nhc.noaa.gov/archive/text/TWDEP/2017/index*
+rm www.nhc.noaa.gov/archive/text/TWDEP/2018/index*
+rm www.nhc.noaa.gov/archive/text/TWDEP/2019/index*
+rm www.nhc.noaa.gov/archive/text/TWDEP/2020/index*
+rm www.nhc.noaa.gov/archive/text/TWDEP/2021/index*
+rm www.nhc.noaa.gov/archive/text/TWDEP/2022/index*
+rm www.nhc.noaa.gov/archive/text/TWDEP/2023/index*
+rm www.nhc.noaa.gov/archive/text/TWDAT/index*
+rm www.nhc.noaa.gov/archive/text/TWDAT/2003/index*
+rm www.nhc.noaa.gov/archive/text/TWDAT/2004/index*
+rm www.nhc.noaa.gov/archive/text/TWDAT/2005/index*
+rm www.nhc.noaa.gov/archive/text/TWDAT/2006/index*
+rm www.nhc.noaa.gov/archive/text/TWDAT/2007/index*
+rm www.nhc.noaa.gov/archive/text/TWDAT/2008/index*
+rm www.nhc.noaa.gov/archive/text/TWDAT/2009/index*
+rm www.nhc.noaa.gov/archive/text/TWDAT/2010/index*
+rm www.nhc.noaa.gov/archive/text/TWDAT/2011/index*
+rm www.nhc.noaa.gov/archive/text/TWDAT/2012/index*
+rm www.nhc.noaa.gov/archive/text/TWDAT/2013/index*
+rm www.nhc.noaa.gov/archive/text/TWDAT/2014/index*
+rm www.nhc.noaa.gov/archive/text/TWDAT/2015/index*
+rm www.nhc.noaa.gov/archive/text/TWDAT/2016/index*
+rm www.nhc.noaa.gov/archive/text/TWDAT/2017/index*
+rm www.nhc.noaa.gov/archive/text/TWDAT/2018/index*
+rm www.nhc.noaa.gov/archive/text/TWDAT/2019/index*
+rm www.nhc.noaa.gov/archive/text/TWDAT/2020/index*
+rm www.nhc.noaa.gov/archive/text/TWDAT/2021/index*
+rm www.nhc.noaa.gov/archive/text/TWDAT/2022/index*
+rm www.nhc.noaa.gov/archive/text/TWDAT/2023/index*
+cp -rf www.nhc.noaa.gov/archive/ TWDs/
