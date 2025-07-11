@@ -1,4 +1,4 @@
-	This code repository includes various scripts used for preparing, training, and processing the output of neural networks from "Using Deep Learning to Identify Tropical Easterly Waves, the Intertropical Convergence Zone, and the Monsoon Trough" (Will Downs, Sharan Majumdar, Aidan Mahoney). General descriptions of each file are included below. 
+This code repository includes various scripts used for preparing, training, and processing the output of neural networks from "Using Deep Learning to Identify Tropical Easterly Waves, the Intertropical Convergence Zone, and the Monsoon Trough" (Will Downs, Sharan Majumdar, Aidan Mahoney). General descriptions of each file are included below. 
 
 
 
